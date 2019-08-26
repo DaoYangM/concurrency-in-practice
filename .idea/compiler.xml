@@ -9,5 +9,8 @@
         <module name="concurrency-in-practice" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="concurrency-in-practice" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
